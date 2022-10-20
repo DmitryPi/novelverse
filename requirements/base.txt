@@ -10,7 +10,7 @@ redis==4.2.2  # https://github.com/redis/redis-py
 hiredis==2.0.0  # https://github.com/redis/hiredis-py
 celery==5.2.6  # pyup: < 6.0  # https://github.com/celery/celery
 django-celery-beat==2.2.1  # https://github.com/celery/django-celery-beat
-django-celery-results==2.3.1  # https://github.com/celery/django-celery-results
+django-celery-results==2.4.0  # https://github.com/celery/django-celery-results
 
 # Django
 # ------------------------------------------------------------------------------
